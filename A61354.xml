@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The State-Proteus, or, The inconstant politician</title>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61354</idno><idno type="EEBO-CITATION">13587080</idno>
+  <idno type="VID">100579</idno>
+  <idno type="EEBO-PROQUEST">2240865089</idno>
+  
+            <idno type="STC">Wing S5327</idno>
+            <idno type="STC">ESTC R13645</idno>
+            <idno type="OCLC">13587080</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A61354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 851:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The State-Proteus, or, The inconstant politician</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100579:1"/>
+            <pb facs="tcp:100579:1"/>
+            <p>THE STATE-PROTEUS; OR THE Inconstant Politician.</p>
+            <q>
+               <bibl>
+                  <hi>St. JAMES, Ch. 1. v. 8.</hi>
+               </bibl>
+               <p>The Double-minded-man is unstable in all his ways.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:100579:2"/>
+            <pb n="3" facs="tcp:100579:2"/>
+            <head>THE STATE-PROTEUS; OR THE Inconstant Politician.</head>
+            <p>THough some Truths are to be spoken at some times, which it is neither proper nor expedient to deliver at another; yet, whatever is said at different times, must surely, if it be true, agree with, and not contradict it<g ref="char:EOLhyphen"/>self. When therefore men shall say one thing, in one <hi>State of Af<g ref="char:EOLhyphen"/>fairs,</hi> and the quite contrary in another, 'tis a clear sign, that their Sentiments are governed by the Motion of the Times, and not the unalterable Dictates of Right Reason; and that their Design is, not to serve the publick Interest of Truth, but their own pri<g ref="char:EOLhyphen"/>vate Convenience. For Truth is allways the same, and Reason is in every Country, and at all times, agreeable to itself.</p>
+            <p>So that if any one, being born in <hi>Scotland,</hi> and coming for <hi>England,</hi> shall both from the Press and Pulpit, maintain and de<g ref="char:EOLhyphen"/>fend the Doctrine of <hi>Absolute Submission</hi> to Authority; but within a while shall contradict himself, and change both his Style and Principles; Men will think they have just grounds to suspect, that this Person is more concerned to advance himself, than the Cause which he pretends to espouse; and that the secret Springs by which he moves, are the Riches and Honours of this World, and not the Welfare of the Publick.</p>
+            <pb n="4" facs="tcp:100579:3"/>
+            <p> If he writes and disputes for <hi>absolute Submission,</hi> when in vogue, and likely to give his Humility a lift; but does, as much con<g ref="char:EOLhyphen"/>demn and run it down, when out of Fashion, and no step to Pre<g ref="char:EOLhyphen"/>ferment; what can we conclude, but that when he left <hi>Scotland,</hi> his Sails were full blown with the hopes of Preferment from this Quarter, but that afterwards (the Wind turning about to the op<g ref="char:EOLhyphen"/>posite Coast) he thought fit to tack about with it, and <hi>land at Torbay,</hi> with his <hi>Measures of Submission to the Supreme Authority?</hi> a Book at this time more fit to promote the great <hi>Law of Self Pre<g ref="char:EOLhyphen"/>servation,</hi> than the <hi>Vindication of the Authority of the Church,</hi> prin<g ref="char:EOLhyphen"/>ted at <hi>Glascow.</hi>
+            </p>
+            <p>The <hi>Beaux Esprits,</hi> and Men of Sanguine Complexions, may perhaps attribute this chopping and changing of Principles to a certain <hi>towring Genius,</hi> and Greatness of Mind, not incident to those of more feeble Constitutions, but for my part, I profess this is such a<note n="(a)" place="margin">Inquiry into the Pres. State of Aff. <hi>Pag. 13. lin. 32.</hi>
+               </note>
+               <hi>strength of Thought,</hi> and such an<note n="(b)" place="margin">
+                  <hi>Ib.</hi> Pag. 16. lin. 20.</note>
+               <hi>air of Greatness,</hi> which I desire neither to understand nor imitate. And all honest Men will, I believe, judge it to be no better, than a mean and unworthy Compliance, (to say no worse,) al<g ref="char:EOLhyphen"/>together inconsistent with the generous simplicity of Christianity; and more especially very much unbecoming the <hi>Ecclesiastical Professours</hi> of it; except it be such <hi>Vicars of Bray,</hi> who resolve (whatever happens) to be <hi>Vicars of Bray</hi> still, and are too well known to be a Scandal to their Function.</p>
+            <p>
+               <hi>Molti sono li Praedicatori</hi> (says the Italian) <hi>che si stessi non auscoltano.</hi> And certainly this was never more true in <hi>England,</hi> than at pre<g ref="char:EOLhyphen"/>sent. I am heartily sorry that it should be so; but it is too visi<g ref="char:EOLhyphen"/>ble to be denied: Yet I hope the Guilt of this general Defection will be charged but on a few; those popular and confiding Doc<g ref="char:EOLhyphen"/>tors I mean, who were concerned in the management of this <hi>my<g ref="char:EOLhyphen"/>sterious Intrigue,</hi> (called our <hi>Late happy Revolution,</hi>) from first to last. They surely must be chiefly answerable, and not their infe<g ref="char:EOLhyphen"/>riour Brethren, who were reduc'd to this fatal <hi>Dilemma,</hi> either to swear or starve. These (at least the greatest part of them) are, I doubt not, so honest, as still to retain their former Principles, though, for the sake of their Families, they think themselves not obliged pablickly to own and defend them. But as for those who
+<pb n="5" facs="tcp:100579:3"/>brought them into this Snare, what can they say for themselves? They who have so often preach'd up the Doctrine of Non-Res<g ref="char:EOLhyphen"/>stence, and how cut, mince, and divide the matter, according to their new <hi>Measures of Submission:</hi> They who have all along taught the People, that <hi>'tis not lawfull upon any Pretence whatsoever to take up Arms against their lawfull Sovereign,</hi> and now endeavour to per<g ref="char:EOLhyphen"/>suade them that in some Cases it is lawfull; what tolerable excuse can they make for themselves? Doubtless this Italian Observati<g ref="char:EOLhyphen"/>on may be too justly accommodated to such Italianized English<g ref="char:EOLhyphen"/>men, who in their Principles have formerly been <hi>English,</hi> but are now become <hi>Romish</hi> in their Practices.</p>
+            <p>I remember When the late Bishop of <hi>Oxford</hi> began to set up for an Advocate for the Declaration for <hi>Liberty of Conscience,</hi> it made Men call to mind what he had written on the contrary side. In<g ref="char:EOLhyphen"/>somuch that there was a Book printed against him, wherein the Doctor and Arch-deacon were confronted with the Bishop; the Author concluding, that in some of these capacities he must ne<g ref="char:EOLhyphen"/>cessarily have been in the Wrong. And 'tis well known that the Reverend Dr. <hi>B.</hi> himself, in his <hi>Reflexions upon his Reasons for taking away the Test,</hi> supposing the Bishop without his <hi>Fiocco</hi> (as the Car<g ref="char:EOLhyphen"/>dinal's Horses are (he informs us,) when their Eminencies have a mind to be <hi>incogniti</hi>) treated him, not altogether <hi>alla Italiama.</hi> That which expos'd the Bishop to every ones Censure, and laid him so low in Men's Esteem, was his inconsistence with himself, in writing against <hi>Liberty of Conscience,</hi> when it was no <hi>Court-Principle,</hi> and for it when it was. And if any one, how much soever he may be an Enemy to his Person, shall nevertheless follow his Ex<g ref="char:EOLhyphen"/>ample; if whilst he is fishing for Preferment he shall say one thing, but having caught the Fish, he shall change his Note, and tell us the quite contrary, he is liable to the same Censures; and some may think, that he ought to be no more respectfully used, than the Bishop was, whether he have his <hi>Fiocco</hi> on or off.</p>
+            <p>But I have more Reverence for the very name of a <hi>Bishop,</hi> how ill soever it may agree with the Character of the Person that wears it; and therefore having read some things in the Writings of a cer<g ref="char:EOLhyphen"/>tain Authour, which I cannot reconcile with what he was written, when the times had another aspect, I shall only propose both the one and the other to his pious Consideration, and desire him to
+<pb n="6" facs="tcp:100579:4"/>write his own Vindication, or acknowledge his Mistakes. I beg of him to take along with him his own Objection, and to answer it if he can: <q>Since this hath been the constant Doctrine (<hi>viz.</hi> that of Non-resistance) of the Church of <hi>England,</hi> it will be a very heavy impuration upon us, if it appears, that though we held those Opinions, as long as the Court and Crown have favoured us; yet assoon as the Court turns against us, we change our Prin<g ref="char:EOLhyphen"/>ciples.</q>
+               <hi>Measures of Submiss.</hi> p. 8. Sect. 13.</p>
+            <p>This kind of <hi>drawing and uplifting,</hi> how well soever it may agree with the <hi>Inclinations</hi> of a <hi>People given to Change,</hi> is certainly very in<g ref="char:EOLhyphen"/>consistent with that steady and uniform Constancy for which the Church of <hi>England</hi> hath hitherto been deservedly famous; and though she still continues the same in her Doctrines and Principles, yet she cannot but grieve to see so many of her Sons change the good old <hi>Measures</hi> which she hath given them, for others of their own devising, more suitable to the <hi>Present State of Affairs.</hi>
+            </p>
+            <div type="dialogue">
+               <pb n="7" facs="tcp:100579:4"/>
+               <sp>
+                  <speaker>The Church of <hi>England</hi> man.</speaker>
+                  <p>MAy not Subjects, when oppressed in their established Religion, defend themselves, and resist the Magistrate? Doth not the Law of Nature direct men to defend themselves when unjustly as<g ref="char:EOLhyphen"/>saulted? <hi>Answ.</hi> We must distinguish between the Law of Nature, and the Rights and Permissions of Nature. Now Self defence can<g ref="char:EOLhyphen"/>not be a Law of Nature, for then it could never be dispensed with without sin:— And it will not serve turn to say, for the good of Society he ought to submit. For no man must violate the Laws of Nature, were it on never so good a design. <hi>Vindic. of the Au<g ref="char:EOLhyphen"/>thority of the Church,</hi> printed at <hi>Glascow,</hi> p. 7. Christ's dying for us, shews that Self-defence can be no Law of Nature; otherwise Christ, who fulfilled all Righteousness, had contradicted the Laws of Nature. <hi>Ib.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The Politician.</speaker>
+                  <p>
+                     <hi>The Duty of Self-preservation is exerted in Instances of two sorts. The one are, in resistng of violent Aggressours; the other are in taking of just Revenges of those who have invaded us so secretly, that we could not prevent them, and so violently, that we could not re<g ref="char:EOLhyphen"/>sist them. In which Cases the Principles of Self-preservation warrants us both to recover what is our own with just damages, and also to put such unjust Persons cut of a capacity of doing the like Injuries any more, either to our selves, or any others.</hi> Meas. of Submiss. <hi>&amp;c. p.</hi> 2. <hi>S.</hi> 2. All this you must observe, is to be understood concerning the Resistence to be made against the supreme Magistrate, when we are by him unjustly assaulted.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Magistrates derive not their Power from the Sur<g ref="char:EOLhyphen"/>render of the People;— for none can render what they have not. Take then a multitude of People not yet associated; none of them hath power over his own Life, neither hath he power over his neighbour's; since no man out of Society may kill another, be his Crime never so great; much less be his own Murtherer.— A multitude of People not yet associated, are but so many individu<g ref="char:EOLhyphen"/>al Persons; therefore the Power of the Sword is not in the Peo<g ref="char:EOLhyphen"/>ple, nor is of their Delegation; but is from God. <hi>Vindic. of the Autor. of the Ch.</hi> p. 10.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="tcp:100579:5"/>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>The true and original Notion of Civil Government is, that it is a Compromise made by such a Body of Men, by which they re<g ref="char:EOLhyphen"/>sign up the Right of demanding Reparations, either in way of Justice against one another; or in ths way of War against their Neighbours to such a single Person, or to such a Body of Men, as they think fit to trust with this.</hi> Meas. of Submiss. <hi>p.</hi> 2. <hi>sect.</hi> 3 — <hi>Bodies of Men can give themselves up in different degrees to the conduct of others.</hi> Ib. <hi>p.</hi> 3. <hi>sect</hi> 5.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Consid<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r that Christ was to fulfill all Righteous<g ref="char:EOLhyphen"/>ness; if then the Laws of Nature exact our Defence in case of un<g ref="char:EOLhyphen"/>just Persecution for Religion, he was bound to that Law, as well as we; for he came not to destroy but to fulfill the Law, both by his Example and Precepts. <hi>If then you charge the Doctrine of Absolute Submission as brutish, or stupid, (or as contrary to the Law of Nature,) see that you do not run into blaspemy, by charging that Holy one foolishly.</hi> Vindic &amp;c. <hi>p.</hi> 35.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>In these words</hi> (<hi>viz.</hi> Rome. 13.1, 2, 3, 4, 5, 6, 7) <hi>we have the Duty of the Magistrates, as well as the Obedience of the Subject set forth, and so mixt together, that we must conclude, That upon the total failing of the one, the other does likewise cease</hi> Inquiry into the Present State of Affairs, <hi>p</hi> 4 If this Comment be true, then Absolute Submission in such a Case, is both brutish and foo<g ref="char:EOLhyphen"/>lish, <hi>&amp;c.</hi> And thus St. <hi>Paul</hi> himself will be found guilty of Bla<g ref="char:EOLhyphen"/>sphemy, (which God forbid!) by charging that Holy one foo<g ref="char:EOLhyphen"/>lithly, who was perfectly, obedient to the Magistrate, when he totally failed in this Duty.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>If fighting at that time when St. <hi>Peter</hi> drew his Sword, for preserving Christ from the Jews, was contrary to the Law of his Kingdom, so the Rule of the Gospel, binding all succee<g ref="char:EOLhyphen"/>ding Ages of the Church, no less than those to whom it was first de<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>vered: What was then contrary to the nature of Christs Kingdom, will be so still <hi>Vindic.</hi> p. 39. <hi>My Kingdom is not of this World,</hi> this doth so expr<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ssly; discharge all bu<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ling and fighting on the pretence of Religion, that we must eitheir set up for another Gospel, or utterly reject what is so formally condemned by the Authour of this we profess to believe, <hi>Serm. on</hi> Rom. 13.5. <hi>p.</hi> 28.</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="tcp:100579:5"/>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>This was the State of Christian Religion during the three first Centuries under Heathen Emperours, and a Constitution, in which Heathenism was established by Law; but if by the Laws of any Government the Christian Religion, or any form of it, is become a part of the Subject's Property, — then must we judge of the Invasions made on that, as we do on any other Invasion that is made on our Right.</hi>— Meas. Submiss. <hi>p.</hi> 6. <hi>sect</hi> 9. — <hi>No general Considerations from Specu<g ref="char:EOLhyphen"/>lations about Sovereign Power, nor from any Passages either of the old or new Testament, ought to determine us in this matter.</hi> Ib. <hi>p.</hi> 6, 7. <hi>S.</hi> 11.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch of</hi> Eng.</speaker>
+                  <p>I shall add one thing which all Casuists hold, a safe Rule, in matters that are doubtfull, <hi>viz.</hi> That we ought to follow that side which is freest from hazard. Here then Damna<g ref="char:EOLhyphen"/>tion is at least the seeming hazard of Resistence: Therefore ex<g ref="char:EOLhyphen"/>cept, upon as clear Evidence, you prove the danger of <hi>Absolute Submission</hi> to be of the same nature, that it may balance the other, then <hi>Absolute Submission,</hi> as being the securest is to be followed. <hi>Vind. of the Authority,</hi> &amp;c. p. 42.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician</speaker>
+                  <p>
+                     <hi>If our Saviour has denounc'd a terrible Wee against those who lay a Stumbling Bl<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ck before one of his little ones, under how much greater Damnation do they fall, who lay such a Stumbling Block as the refusing the Oaths will be before a whole Nation?</hi> &amp;c. —<hi>A man that adventures on so dangerous a thing, had need be very sure, that he is in all this matter in the right, otherwise he runs a risk of fighting, against God, if he should happen to be in the wrong.</hi> Bp, of <hi>S</hi>—'s Past. Letter, p. 4. Here the safer side is supposed to be <hi>Taking the Oaths,</hi> where<g ref="char:EOLhyphen"/>as before it was <hi>Absolute Submission;</hi> and thus Damnation and a Woe rather belongs to the Refusers of the Oaths, than to the Re<g ref="char:EOLhyphen"/>sisters of the supreme Authority, (as the Case was decided before.)</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Object. <hi>But he is the Minister of God to thee for good;</hi> and if they (<hi>i. e.</hi> the Supreme Powers) swerve from this they for<g ref="char:EOLhyphen"/>sake the end for which they were raised up, and so fall from their Power, and Right to our Obedience. <hi>Answ.</hi> It is true, the So<g ref="char:EOLhyphen"/>vereign is a Minister of God for good; so that he corrupts his Power grosly when he pursues not that design; but in that he is only accountable to God, whose Minister he is, <hi>&amp;c, Ib.</hi> p. 41. —From Almighty God the King <hi>(Saul)</hi> had his Power; and he
+<pb n="10" facs="tcp:100579:6"/>
+                     <hi>(David)</hi> knew he was to give an Account of his Administration. <hi>Serm. on</hi> Jan. 30. —75. p. 9.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>When the Root of the King's Overturning the Laws, is his being so entirely devoted to his Religion, and the Order of the Jesuits, how decent soever it might be for the Prince to lay the Blame of all on his evil Counsellors, yet it will be an</hi> unreasonable piece of Tenderness <hi>in the Representative, not to lay the Blame of Kings where it ought to be laid,</hi> i. e. <hi>on the King.</hi> Inquiry into Pres. State of Affairs, <hi>p.</hi> 12. <hi>sect.</hi> 8. <hi>And he having given that just Advantage against himself, —no man can think it was not very fitting to carry it as far as it would go, and not to treat with him any more upon the foot of acknowledging him King.</hi> Ib. <hi>p.</hi> 15. <hi>sect.</hi> 11.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>The Enemies of that Royal Martyr, King <hi>Charles</hi> the first, by Oaths and Counter-Oaths, which they often took, had their Consciences so seared, as to be past seeling, —till they threw off all sense of God and Religion, and set up professedly for Atheism. <hi>Serm. on</hi> Jan. 20. —75 p. 38.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>If it be insisted on, that the Oaths of Supremacy and Alle<g ref="char:EOLhyphen"/>giance are conceived in such Terms, that there is no breaking through them, — To this it is to be answered, That the end and Design of those Oaths was to secure us against the Danger of Popery,</hi> &amp;c. Inquiry, <hi>p.</hi> 9, 10. <hi>sect.</hi> 6. This was the pretence in the late times, as well as it is now; and the effects, 'tis to be feared, will be the same they were then; that is, Oaths and Counter-Oaths, and at last Atheism it<g ref="char:EOLhyphen"/>self.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>We are taught, that those, <hi>i. e.</hi> the higher Powers, are of God, nay, that they are Gods; a strain of Speech, that, if divine Authority did not warrant it, would pass for impudent and blasphemous Flattery.—</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>All the Expressions in the old Testament relating to Kings, are without any sort of Reason applied to those who cannot pretend to such Designation;</hi> i. e. <hi>immediate Designation from God.</hi> Meas. of Submiss. <hi>p.</hi> 5. <hi>sect.</hi> 8.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Deputed Powers are only accountable to those from whom they derive their Authority. <hi>Serm.</hi> on Rom. xiii. 5. p. 19, 20, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="tcp:100579:6"/>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>They</hi> (i. e. <hi>who shall levy Money upon the Subject in the King's Name</hi>) <hi>being violent Aggressours, the Principle of Self-Preserva<g ref="char:EOLhyphen"/>tion seems here to take place, and to warrant as violent a Resistence.</hi> Meas. of Submiss. <hi>p.</hi> 7. <hi>sect.</hi> 11.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>I will doe that which I think fit for me to doe to day, though I were sure to be assassinated for it to morrow but to the last moment of my Life I will pay all Duty and Fidelity to his Majesty. <hi>Third Letter to the E. of</hi> Middleton.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>But if he goes to subvert the whole Foundation of the Go<g ref="char:EOLhyphen"/>vernment, he subverts that by which he himself has his Power; and by consequence he annulls his own Power, and then he ceases to be King.</hi> Meas of Submiss. <hi>p</hi> 9, 10. <hi>sect.</hi> 15. Thus doth he pay all Duty and Fidelity to his Majesty, to the last moment of his Life.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Of all Maxims in the World, there is none more hurtfull to the Government in our present Circumstances, than the saying that the King's Promises and the Peoples Fidelity ought to be reciprocal, and that a Failure in one cuts off the other: For by a very natural Consequence, the Subjects may likewise say, That their Oaths of Allegiance being founded on the assurance of his Majesties Protection, the one binds no longer than the other is observed: And the Inferences which may be drawn from hence, will be terrible, if the Loyalty of the so much decried Church of <hi>England</hi> does not put a stop to them. <hi>Ans. to the New Test,</hi> p. 55.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>On the other side, there is nothing but an Opinion, that some Men (whose Studies never led them to examine, either the nature of civil Societies in general, according to the Roman Law, or the nature of the English Government from the Laws and History of</hi> England, <hi>with that care that was necessary) have taken up, That there is an uncontrol<g ref="char:EOLhyphen"/>lable and supreme Power lodg'd with our Kings by a Divine Deputation, which exempts them from being called to an account, or resisted by the Peo<g ref="char:EOLhyphen"/>ple.</hi> Past. Letter, <hi>p.</hi> 26. <hi>It is certain that the Reciprocal Duties in ci<g ref="char:EOLhyphen"/>vil Societies are Protection and Allegiance; and wheresoever the one fails wholly, the other fails with it.</hi> Inquiry, <hi>p</hi> 3. <hi>sect.</hi> 1. And indeed this is the Principle which seems now to have debauched all Or<g ref="char:EOLhyphen"/>ders of Men; and if the Loyalty of the so much decried Church of <hi>England</hi> do not put a stop to it, God knows what will be the consequences thereof.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="tcp:100579:7"/>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>The real Causes of Commotions are seldom the same with those that are pretended for training in and engaging a multitude; they are truly an ungrounded and aspiring Ambi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion, the Heat and Fury of Mens Passions, <hi>&amp;c. Serm. on</hi> Rom xiii. 5. p. 5, 6.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>A King's deserting his People, and withdrawing both his Person and his Seals, by which the Peace, Justice, and Order of the Nation are preserved, does certainly warrant them to look to their Safety and Preservati<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n,</hi> &amp;c. Inquity, <hi>p.</hi> 5, <hi>sect.</hi> 3. <hi>Quaer.</hi> Whether these be the real Causes of our late Commotions, or an aspiring Ambi<g ref="char:EOLhyphen"/>tion, the Heat and Fury of Mens Passions? <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>And though after that the Emperours turned Chri<g ref="char:EOLhyphen"/>stian, and established the Faith by Law; yet neither did the subtile Attempts of <hi>Juhan,</hi> nor the open Persecutions of some <hi>Arian</hi> Em<g ref="char:EOLhyphen"/>perours, who did, with some great violence, persecute the ortho<g ref="char:EOLhyphen"/>dox, occasion any seditious Combinations against Autho<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ity. <hi>Serm. on</hi> Rom. xiii. p. 32.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>Any other way of proceeding</hi> (i. e. <hi>than utterly throwing off all Allegiance te King</hi> James, <hi>and refusing to treat with him,</hi>) <hi>has not that Air of Greatn<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ss and Openness, which is necessary upon such Occasions.</hi> Inquiry, <hi>p</hi> 13. — <hi>Upon all this, it is natural to declare the Throne void, and that the King has fallen from all Right to it,</hi> &amp;c. Ibid. <hi>p.</hi> 15. —Is not this to blow the Trumpet to such sedition Combinations as he Orthodox Christians abhorred, even then when (by our Author's own Confession) the Law was on their sales.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>Though the Bondage of Slaves was heavy, and highly contrary to all the freedoms of the humane Nature, yet he (St. <hi>Peter</hi>) exhorts them (all Christians) to bear the Severities of the froward and unjust Masters. <hi>Serm. on</hi> Rom. xiii. p. 27. In twenty years Persecution the Martyrs of one Province <hi>(Egypt)</hi> were reckoned to be betwixt 8 or 900,000; and yet no Tumults were raised against all this Tyranny and Injustice. <hi>Ib. p.</hi> 31. <hi>The Bondage of the Primitive Christians did not rob them of that Liberty which is truly Christian.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>There are two seeming Contradictions in our Constitution: The one is, the publick Liberty of the Nation; the other is, the renouncing
+<pb n="13" facs="tcp:100579:7"/>of all Resistance, in case that were invaded. It is plain; that our Liberty is only a thing that we enjoy at the King's discretion, and during his plea<g ref="char:EOLhyphen"/>sure, if the other against all Resistance, is to be understood according to the utmost extent of the Words. Therefore since the chief design of the Law is to procure and maintain our Liberty, we ought to lay that draw for a Con<g ref="char:EOLhyphen"/>clusion, that it is hath the most plain and important of the two.</hi> M<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as of Submiss. <hi>p.</hi> 9. I wish our irregular Endeavours after publick Li<g ref="char:EOLhyphen"/>berty, do not, at last, bring us into Bondage.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch of</hi> Eng.</speaker>
+                  <p>With this Argument, that <hi>Christ suffered for them, leaving them an Example;</hi> from these unerring Principles and Pra<g ref="char:EOLhyphen"/>ctices must all true Christians take the Measures of their Actions, and the Rules of their Life: And indeed the Converts of Christi<g ref="char:EOLhyphen"/>anity embraced the Cross, and bore it, not onely with Patience, but with Joy. Neither the Cruelty of their unrelenting Persecu<g ref="char:EOLhyphen"/>tors, nor the continued Tract of their Miseries, which did not and but with their days, prevailed on them either to renounce the Faith, or doe that which is next door to it, throw off the Cross, and betake themselves to seditious practices for their preservation. <hi>Serm on.</hi> Rom. xiii. p. 29.</p>
+               </sp>
+               <sp>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>All the Schemes that may be offered of securing us, by a Treaty with the King, have such visible defects in them, that Men who are accustomed to examine things, cannot be deceived by them.</hi> — Inquiry, <hi>p.</hi> 10. <hi>S.</hi> 7. <hi>A great deal of time will be lost, in preparing the Preposi<g ref="char:EOLhyphen"/>tions; and a Treaty being once entertained, many may be practised <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n, and either be corrupted, or destroyed; — and therefore the keeping things still in a loose and unsetled Seat, is the hazarding the whole Matter, and the running the risk of a Relapse, &amp;c.</hi> Inquiry, <hi>p.</hi> 13, 14 <hi>S.</hi> 10. If these Insinuations and Directions be not seditious Practices (so much detested by the primitive Christians,) I know not what are so.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch of</hi> Eng.</speaker>
+                  <p>And though Religion suffered great Decays in the Succession of many Ages; yet, for the first ten Centuries no Fa<g ref="char:EOLhyphen"/>ther, or Doctor of the Church, or any Assembly of Church-men, did ever teach, maintain, or justifie any seditious Doctrines or Pra<g ref="char:EOLhyphen"/>ctices. <hi>Serm. on</hi> Rom. xiii. 5. <hi>p.</hi> 32.</p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="tcp:100579:8"/>
+                  <speaker>Politician.</speaker>
+                  <p>
+                     <hi>Nor is there one single Instance, that I could ever yet hear of, in any part or age of the Christian Church, where the Clergy refused to acknowledge him that was their King in Fact; or to give him all those Securities of their Allegiance and Fidelity to him, which were required of them.</hi> Past. Letter, <hi>p.</hi> 14.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Ch. of</hi> Eng.</speaker>
+                  <p>She (<hi>i. e.</hi> the Church of <hi>England</hi>) hath beaten down all the Principles of Rebellion with more Force and Learning, than any Body of men hath ever yet done.— We are the onely Church in the World that carries those Principles to the highest. — We acknowledge that some of our Clergy miscarried in it (the Doctrine of Non-resistence) upon King <hi>Edward</hi>'s Death, yet at the same time others of our Communion adhered more steadily to their Loyalty in favour of Queen <hi>Mary,</hi> than she did to the Promises that she made to them. <hi>Ans. to the New Test,</hi> p. 48, 49.</p>
+               </sp>
+               <sp>
+                  <speaker>Pol.</speaker>
+                  <p>
+                     <hi>It can least of all be imagined, that the great and learned Body the Clergy) which has so triumphed over Popery in their late Contests with it, should now let themselves, be so misled with the</hi> narrow Notions of un<g ref="char:EOLhyphen"/>bounded Loyalty, <hi>as to oppose, or even to dislike, such a compleat Settle<g ref="char:EOLhyphen"/>ment as the present Exigence of our Affairs requires.</hi>— <hi>It cannot but les<g ref="char:EOLhyphen"/>sen the Esteem that is due to any</hi>— <hi>if they will still pursue a Point that is liable to such great and just Exceptions.</hi>— Enquiry into the present State of Affairs, <hi>p.</hi> 15, 16. <hi>S.</hi> 12.</p>
+               </sp>
+            </div>
+            <div type="conclusion">
+               <pb n="15" facs="tcp:100579:8"/>
+               <p>THus you have a few of those many Instances, I might have gi<g ref="char:EOLhyphen"/>ven of our Author's Constancy, and Agreeableness to himself. And it is not, I profess, any Prejudice to his Person, or Disobliga<g ref="char:EOLhyphen"/>tion I ever received from him, which put me upon collecting these things out of his Writings, and comparing them one with another. As I am not indebted to him for any Favour (except it be for some of his Discourses, whilest his Principles were sound and honest,) so he never, I dare say, did me the least harm, (any otherwise, than as it is necessary that every private Person must suffer in the publick Damage he has done by his late Tracts and Practices;) Nay, I must confess, that I have always had a just Respect for his Parts and Learning, and 'tis pity that they were not so well ba<g ref="char:EOLhyphen"/>lasted with Vertue and Piety, as to have made him, (what God and Nature seem to have designed him to have been,) one of the Ornaments of our Church. But hence we may all learn, how un<g ref="char:EOLhyphen"/>safe it is to rely upon the Authority of any one Man, how conside<g ref="char:EOLhyphen"/>rable soever, when he once begins to sacrifice to his own Ambi<g ref="char:EOLhyphen"/>tion and particular Interests, rather than the Concerns of Truth and common Christianity. May he live to repent for what he has done! <hi>And may it please thee, O God, to illuminate all Bishops, Pri<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sts and Deacons with true Knowledge and Understanding of thy Word; and that both by their Preaching and Living they may set it forth, and shew it ac<g ref="char:EOLhyphen"/>cordingly.</hi>
+               </p>
+               <p>To conclude: I shall make no other Apology for this Compa<g ref="char:EOLhyphen"/>rison, than a certain Doctour doth for his Sermon on <hi>Rom</hi> xi<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 5. in these words: — <q>The same equality of Justice and Freedom, which obliged me to lay open this, (<hi>i e.</hi> the <hi>Hildebrandine Doc<g ref="char:EOLhyphen"/>trine</hi> of Resisting and deposing Kings,) ties me to tax also those who pretend a great hate against <hi>Rome,</hi> and value themselves on the abhorring all the Doctrines and Practices of that Church, and yet have carried along with them one of their most <hi>pestife<g ref="char:EOLhyphen"/>rous Opinions,</hi> pretending Reformation, when they would bring all under Confusion and vouching the Cause and word of God,
+<pb n="16" facs="tcp:100579:9"/>when they were disturbing the Authority he had set up; and op<g ref="char:EOLhyphen"/>posing those impowered by him. And the more Piety and De<g ref="char:EOLhyphen"/>votion, such daring Pretenders put on, it still brings the grea<g ref="char:EOLhyphen"/>ter Stain and Imputation on Religion, as if it gave a Patroci<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y to those Practices it so plainly condemns.— But blessed be God, our Church hates and condemns this Doctrine, from what hand soever it comes; and hath established the Rights and Authority of Princes on sure and <hi>unalterable Foundations;</hi> enjoining an <hi>entire Obedience</hi> to all the lawfull Commands of Authority; and an <hi>ab<g ref="char:EOLhyphen"/>solute Submission</hi> to that <hi>Supreme Power which God hath put in our Sovereign's hands.</hi> This Doctrine we justly glory in; and if any that had their Baptism and Education in our Church, have tur<g ref="char:EOLhyphen"/>ned <hi>Renegadoes</hi> from this, they proved no less Enemies to the <hi>Church her self,</hi> than to the <hi>Civil Authority;</hi> so that their <hi>Apostacy</hi> leaves no blame on our Church.</q>
+                  <hi>Serm. on</hi> Rom. xiii. 5. p. 36.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:100579:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
